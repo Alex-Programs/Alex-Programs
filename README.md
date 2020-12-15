@@ -22,5 +22,5 @@ I mostly do Python and am gradually learning some JS/TS.
 
 <img src="https://www.windowscentral.com/sites/wpcentral.com/files/styles/small/public/field/image/2020/10/vscode-logo.png" width="48" alt="VSCode Logo"> <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="48" alt="JS Logo"> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="48" alt="TS Logo"> 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AlexAndHisScripts&show_icons=true&count_private=true&hide=stars&theme=tokynonight">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AlexAndHisScripts&show_icons=true&count_private=true&hide=stars&theme=tokyonight">
 
