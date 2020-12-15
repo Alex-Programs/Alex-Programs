@@ -1,16 +1,30 @@
-### Hi there 👋
+![](https://komarev.com/ghpvc/?username=AlexAndHisScripts)
 
-<!--
-**AlexAndHisScripts/AlexAndHisScripts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi! I'm Alex! 
 
-Here are some ideas to get you started:
+## Amateur Programmer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+I do a lot of programming with [**Collective-SB**] (https://github.com/Collective-SB) in private repositories, collaborating on infrastructure for a gaming faction.
+
+You can PM me as ``IHave#0001`` on Discord!
+
+I mostly do Python and am gradually learning some JS/TS.
+
+## Languages and Tools:
+
+
+
+
+
+<img src="https://seeklogo.com/images/W/webstorm-logo-691E749F21-seeklogo.com.png" width="48" alt="WebStorm Logo"> <img src="https://seeklogo.com/images/D/datagrip-logo-295CA63255-seeklogo.com.png" width="48" alt="DataGrip Logo"> <img src="https://seeklogo.com/images/P/pycharm-logo-51B1427388-seeklogo.com.png" width="48" alt="PyCharm Logo"> 
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" alt="Python Logo"> <img src="https://seeklogo.com/images/G/github-logo-5F384D0265-seeklogo.com.png" width="48" alt="GitHub Logo"> <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="48" alt="Git Logo">
+
+<img src="https://seeklogo.com/images/V/visual-studio-code-logo-284BC24C39-seeklogo.com.png" width="48" alt="VS Logo"> <img src="https://www.windowscentral.com/sites/wpcentral.com/files/styles/small/public/field/image/2020/10/vscode-logo.png" width="48" alt="VSCode Logo"> <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" width="48" alt="C# Logo"> 
+
+<img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="48" alt="JS Logo"> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="48" alt="TS Logo"> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Stack_Overflow_icon.svg" width="48" alt="Stack Overflow Logo"> 
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=AlexAndHisScripts&show_icons=true&count_private=true&hide=stars&theme=tokynonight">
+
