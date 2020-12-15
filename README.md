@@ -6,7 +6,7 @@
 
 I do a lot of programming with [**Collective-SB**](https://github.com/Collective-SB) in private repositories, collaborating on infrastructure for a gaming faction.
 
-You can PM me as ``IHave#0001`` on Discord!
+You can find me at ``IHave#0001`` on Discord!
 
 I mostly do Python and am gradually learning some JS/TS.
 
