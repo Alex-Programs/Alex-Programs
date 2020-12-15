@@ -4,7 +4,7 @@
 
 #### I'm an Amateur Programmer.
 
-I do a lot of programming with [**Collective-SB**](https://github.com/Collective-SB) in private repositories, collaborating on infrastructure for a gaming faction.
+I do a lot of programming with [**Collective-SB**](https://github.com/Collective-SB) in private repositories, collaborating on infrastructure with a gaming faction.
 
 You can find me at ``IHave#0001`` on Discord!
 
