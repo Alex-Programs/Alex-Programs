@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=AlexAndHisScripts)
 
-### Hi! I'm Alex! 
+<img src="https://media.giphy.com/media/KOVlHmbBA09XO/giphy.gif" width="256" alt="Hello There!"> 
 
 #### I'm an Amateur Programmer.
 
