@@ -8,7 +8,7 @@ I do a lot of programming with [**Collective-SB**](https://github.com/Collective
 
 You can find me at ``IHave#0001`` on Discord!
 
-I mostly do Python and am gradually learning some JS/TS. Flask > Django, Vue > React, and TS > JS.
+I mostly do Python and am gradually learning some JS/TS. 
 
 ## Languages and Tools:
 
