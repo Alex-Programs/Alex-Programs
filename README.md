@@ -8,7 +8,7 @@ I do a lot of programming with [**Collective-SB**](https://github.com/Collective
 
 You can find me at ``IHave#7106`` on Discord!
 
-I mostly do Python and am gradually learning some JS/TS. 
+I mostly do Python and web dev.
 
 ## Languages and Tools:
 
@@ -20,7 +20,7 @@ I mostly do Python and am gradually learning some JS/TS.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" alt="Python Logo"> <img src="https://seeklogo.com/images/L/Linux_Tux-logo-C71CF0DDAA-seeklogo.com.png" width="48" alt="Linux Logo"> <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="48" alt="Git Logo">
 
-<img src="https://www.windowscentral.com/sites/wpcentral.com/files/styles/small/public/field/image/2020/10/vscode-logo.png" width="48" alt="VSCode Logo"> <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="48" alt="JS Logo"> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="48" alt="TS Logo"> 
+<img src="https://brandslogos.com/wp-content/uploads/images/react-logo-vector.svg" width="48" alt="React Logo"> <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="48" alt="JS Logo"> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="48" alt="TS Logo"> 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AlexAndHisScripts&show_icons=true&count_private=true&hide=stars&theme=tokyonight">
 
