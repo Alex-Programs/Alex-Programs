@@ -20,7 +20,7 @@ I mostly do Python and web dev.
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="48" alt="Python Logo"> <img src="https://seeklogo.com/images/L/Linux_Tux-logo-C71CF0DDAA-seeklogo.com.png" width="48" alt="Linux Logo"> <img src="https://seeklogo.com/images/G/git-logo-CD8D6F1C09-seeklogo.com.png" width="48" alt="Git Logo">
 
-<img src="https://www.pinclipart.com/picdir/middle/537-5374089_react-js-logo-clipart.png" width="48" alt="React Logo"> <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="48" alt="JS Logo"> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="48" alt="TS Logo"> 
+<img src="https://imgur.com/undefined" width="48" alt="React Logo"> <img src="https://seeklogo.com/images/J/javascript-js-logo-2949701702-seeklogo.com.png" width="48" alt="JS Logo"> <img src="https://seeklogo.com/images/T/typescript-logo-B29A3F462D-seeklogo.com.png" width="48" alt="TS Logo"> 
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=AlexAndHisScripts&show_icons=true&count_private=true&hide=stars&theme=tokyonight">
 
