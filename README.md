@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/KOVlHmbBA09XO/giphy.gif" width="256" alt="Hello There!"> 
 
-#### I'm an amateur Programmer.
+#### I'm an amateur programmer.
 
 I do a lot of programming with [**Collective-SB**](https://github.com/Collective-SB) in private repositories, collaborating on infrastructure with a gaming faction.
 
