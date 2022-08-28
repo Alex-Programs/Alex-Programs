@@ -12,7 +12,7 @@ I generally work on:
 - Learning projects
 - Projects with friends, sometimes in public repos (https://github.com/Collective-SB/Starmap, https://github.com/Strikeeaglechase/VTOLLiveViewerClient) and sometimes in private ones.
 
-I've also done a week's work experience at Microsoft, where among other things I made a tool for getting statistics about the effectiveness of the ORBIT dataset with the Azure cognitive services API:
+I've also done a week's work experience at Microsoft in Cambridge, where among other things I made a tool for getting statistics about the effectiveness of the ORBIT dataset with the Azure cognitive services API:
 https://github.com/AlexAndHisScripts/ORBIT-CC-comparison
 
 I mostly program in Python, but I also know JS, TS, and a little Rust/Elixir/C#.
