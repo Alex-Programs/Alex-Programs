@@ -8,7 +8,7 @@ I generally work on:
 - Little webapps
 - Personal automation tools
 - Browser extensions (For personal use - in private repos for the time being)
-- Deep packet inspection circumvention tools (Will remain in private repos until I leave my current school)
+- Deep packet inspection firewall circumvention tools (Will remain in private repos until I leave my current school)
 - Learning projects
 - Projects with friends, sometimes in public repos (https://github.com/Collective-SB/Starmap, https://github.com/Strikeeaglechase/VTOLLiveViewerClient) and sometimes in private ones.
 
