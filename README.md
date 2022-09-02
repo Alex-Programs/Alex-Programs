@@ -19,4 +19,6 @@ I mostly program in Python, but I also know JS, TS, and a little Rust/Elixir/C#.
 
 You can find me at ``IHave#7106`` on Discord.
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=AlexAndHisScripts&show_icons=true&count_private=true&hide=stars&theme=tokyonight">
+<img align="centre" src="https://github-readme-stats.vercel.app/api?username=AlexAndHisScripts&show_icons=true&count_private=true&hide=stars&theme=tokyonight">
+
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexAndHisScripts&theme=tokyonight&hide=ASP.NET,c%23">
