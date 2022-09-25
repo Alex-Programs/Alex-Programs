@@ -1,7 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=AlexAndHisScripts2)
 
-#### I'm a programmer.
-
 I do some programming with [**Collective-SB**](https://github.com/Collective-SB) in private repositories, collaborating on infrastructure with a gaming faction.
 
 I generally work on:
