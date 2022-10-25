@@ -21,4 +21,6 @@ You can find me at ``IHave#7106`` on Discord.
 
 <img align="centre" src="https://github-readme-stats.vercel.app/api?username=AlexAndHisScripts&show_icons=true&count_private=true&hide=stars&theme=tokyonight">
 
+<!-- Removed due to being pretty inaccurate, counting other people's obsidian extensions under js
 <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexAndHisScripts&theme=tokyonight&hide=ASP.NET,c%23">
+-->
