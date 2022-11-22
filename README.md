@@ -6,7 +6,7 @@ I generally work on:
 - Browser extensions (For personal use - in private repos for the time being)
 - Deep packet inspection firewall circumvention tools (Will remain in private repos until I leave my current school)
 - Learning projects
-- Projects with friends, sometimes in public repos ([**Starmap**](https://github.com/Collective-SB/Starmap), [**VTOL VR Viewer**](https://github.com/Strikeeaglechase/VTOLLiveViewerClient)) and sometimes in private ones.
+- Projects with friends, sometimes in public repos ([**Starmap**](https://github.com/Collective-SB/Starmap), [**VTOL VR Viewer**](https://github.com/Strikeeaglechase/VTOLLiveViewerClient)) and sometimes in private ones
 - Contributions to open source projects that interest me.
 
 I've also done a week's work experience at Microsoft in Cambridge, where among other things I made a tool for calculating statistics about the effectiveness of the ORBIT dataset with the Azure cognitive services API:
