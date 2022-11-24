@@ -15,7 +15,7 @@ I generally work on:
 - Projects with friends, sometimes in public repos ([**Starmap**](https://github.com/Collective-SB/Starmap), [**VTOL VR Viewer**](https://github.com/Strikeeaglechase/VTOLLiveViewerClient)) and sometimes in private ones
 - Contributions to open source projects that interest me.
 
-I've also done a week's work experience at [**Microsoft Research Cambridge**](https://www.microsoft.com/en-gb/about/offices/cambridge/), where among other things I made [**a tool**](https://github.com/AlexAndHisScripts/ORBIT-CC-comparison) for calculating statistics about the effectiveness of the [**ORBIT dataset**](https://github.com/microsoft/ORBIT-Dataset) with the Azure cognitive services API.
+I've also done a week's work experience at [**Microsoft Research Cambridge**](https://www.microsoft.com/en-gb/about/offices/cambridge/), where among other things I built [**a tool**](https://github.com/AlexAndHisScripts/ORBIT-CC-comparison) for calculating statistics about the effectiveness of the [**ORBIT dataset**](https://github.com/microsoft/ORBIT-Dataset) with the Azure cognitive services API.
 
 I used to do a lot of programming with [**Collective-SB**](https://github.com/Collective-SB) in private repositories, collaborating on technical infrastructure for a 500-person gaming group. These included systems that pulled ingame positions data using OCR and showed our positions on a [**live 3D map**](https://github.com/Collective-SB/Starmap/commits/master?author=AlexAndHisScripts), Discord bots for ingame blueprint sharing and progress leaderboards, and an OCR-based monitor of the ingame auction house.
 
