@@ -2,7 +2,7 @@
 
 # Hello! I'm Alex.
 
-*And despite the username, I'm not a script kiddie: I made the username when I was a lot younger and just thought "I'm Alex, I write little scripts; I'll make it AlexAndHisScripts." Once I think of a decent replacement I'll change it.*
+I previously went by [AlexAndHisScripts](https://github.com/AlexAndHisScripts).
 
 ----------
 
@@ -27,8 +27,8 @@ Me and [**Jack Whitehorn**](https://github.com/jw2476) have been working on [**Q
 
 You can find me at ``IHave#7106`` on Discord or open an issue in [**this repository**](https://github.com/AlexAndHisScripts/AlexAndHisScripts).
 
-<img align="centre" src="https://github-readme-stats.vercel.app/api?username=AlexAndHisScripts&show_icons=true&count_private=true&hide=stars&theme=tokyonight">
+<img align="centre" src="https://github-readme-stats.vercel.app/api?username=Alex-Programs&show_icons=true&count_private=true&hide=stars&theme=tokyonight">
 
 <!-- Removed due to being pretty inaccurate, counting other people's obsidian extensions under js
-<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlexAndHisScripts&theme=tokyonight&hide=ASP.NET,c%23">
+<img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Programs&theme=tokyonight&hide=ASP.NET,c%23">
 -->
