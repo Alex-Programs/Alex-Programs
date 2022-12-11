@@ -25,7 +25,7 @@ The language I know best is Python, but I also know JS, TS, and a little Rust/C#
 
 Me and [**Jack Whitehorn**](https://github.com/jw2476) have been working on [**Quark**](https://github.com/quark-proj), but it's far from completion and without any public repositories yet. We've been looking into using the excellent work of the [**Bytecode Alliance**](https://bytecodealliance.org/) as a part of it, so are likely to contribute to their projects in the future.
 
-You can find me at ``IHave#7106`` on Discord or open an issue in [**this repository**](https://github.com/AlexAndHisScripts/AlexAndHisScripts).
+You can find me at ``IHave#7106`` on Discord or open an issue in [**this repository**](https://github.com/Alex-Programs/Alex-Programs).
 
 <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Alex-Programs&show_icons=true&count_private=true&hide=stars&theme=tokyonight">
 
