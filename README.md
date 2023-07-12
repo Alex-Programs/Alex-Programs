@@ -24,7 +24,9 @@ The language I know best is Python, but I also know JS, TS, Rust, and a little C
 
 You can contact me at ``alexc.j`` on Discord or open an issue in [**this repository**](https://github.com/Alex-Programs/Alex-Programs).
 
+<!--
 <img align="centre" src="https://github-readme-stats.vercel.app/api?username=Alex-Programs&show_icons=true&count_private=true&hide=stars&theme=tokyonight">
+-->
 
 <!-- Removed due to being pretty inaccurate, counting other people's obsidian extensions under js
 <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Alex-Programs&theme=tokyonight&hide=ASP.NET,c%23">
