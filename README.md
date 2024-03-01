@@ -2,10 +2,6 @@
 
 # Hello! I'm Alex.
 
-I previously went by [AlexAndHisScripts](https://github.com/AlexAndHisScripts).
-
-----------
-
 I generally work on:
 - Little webapps
 - Personal automation tools
