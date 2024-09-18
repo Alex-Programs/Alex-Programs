@@ -5,8 +5,8 @@
 I generally work on:
 - Small webapps
 - Personal automation tools
-- Browser extensions (For personal use - in private repos for now)
-- Deep packet inspection firewall circumvention tools (Will remain in private repos until I leave my current school)
+- Browser extensions (both for personal use and [**Nuenki**](https://nuenki.app)
+- Deep packet inspection firewall circumvention tools (Currently in a private repo; I will soon clean it up and release it)
 - Projects with friends, sometimes in public repos ([**Starmap**](https://github.com/Collective-SB/Starmap), [**VTOL VR Viewer**](https://github.com/Strikeeaglechase/VTOLLiveViewerClient)) and sometimes in private ones
 - Contributions to open source projects that interest me.
 
@@ -16,7 +16,7 @@ I used to do a lot of programming with [**Collective-SB**](https://github.com/Co
 
 <!-- TODO: https://github.com/Collective-SB/zone-alert-ocr, https://github.com/Collective-SB/hud-overlay, https://github.com/Collective-SB/reddit-observer when SB is well and truly dead, I know nobody's actually reading this repo so a few links are alright. -->
 
-Python is the language I know best, but I also know JS, TS, Rust, and a little C#. I'm currently working on a new method for circumventing firewalls based on smuggling data in HTTP requests without SSE, request streaming, or Websockets.
+Python is the language I know best, but I also know JS, TS, Rust, and a little C#. I'm currently working on Nuenki, and before that I built a new method for circumventing firewalls based on smuggling data in HTTP requests without SSE, request streaming, or Websockets.
 
 You can contact me at ``alexc.j`` on Discord or open an issue in [**this repository**](https://github.com/Alex-Programs/Alex-Programs).
 
