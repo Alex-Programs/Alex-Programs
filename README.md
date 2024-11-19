@@ -3,7 +3,7 @@
 I generally work on:
 - Deep packet inspection firewall circumvention tools (Currently in a private repo; I will soon clean it up and release it)
 - Personal automation tools
-- Browser extensions (both for personal use and [**Nuenki**](https://nuenki.app))
+- Browser extensions (both for personal use and [**Nuenki**](https://nuenki.app?utm_source=ghprofile))
 - Small webapps
 - Projects with friends, sometimes in public repos ([**Starmap**](https://github.com/Collective-SB/Starmap), [**VTOL VR Viewer**](https://github.com/Strikeeaglechase/VTOLLiveViewerClient)) and sometimes in private ones
 - Contributions to open source projects that interest me.
