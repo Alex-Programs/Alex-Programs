@@ -1,7 +1,7 @@
 # Hello! I'm Alex.
 
 I generally work on:
-- Deep packet inspection firewall circumvention tools (Currently in a private repo; I will soon clean it up and release it)
+- Deep packet inspection firewall circumvention tools ([**Hypertunnel**](https://github.com/Alex-Programs/hypertunnel))
 - Personal automation tools
 - Browser extensions (both for personal use and [**Nuenki**](https://nuenki.app?utm_source=ghprofile))
 - Small webapps
