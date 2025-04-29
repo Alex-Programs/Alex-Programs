@@ -16,6 +16,8 @@ I used to do a lot of programming with [**Collective-SB**](https://github.com/Co
 
 Python and Rust are my most used languages, but I also know JS, TS, and a little C#. I'm currently working on Nuenki, and before that I built a new method for circumventing firewalls based on smuggling data in HTTP requests without SSE, request streaming, or Websockets - [**Hypertunnel**](github.com/Alex-Programs/hypertunnel).
 
+I also write about LLM translation in [**Nuenki's Blog**](https://nuenki.app/blog), and maintain its LLM translation performance benchmark.
+
 You can contact me at ``alexc.j`` on Discord, email alex [at] nuenki [dot app], or open an issue in [**this repository**](https://github.com/Alex-Programs/Alex-Programs).
 
 <!--
